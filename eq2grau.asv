@@ -1,3 +1,0 @@
-clear all, clc, close all
-a=input('a=');
-b=input('b=')
